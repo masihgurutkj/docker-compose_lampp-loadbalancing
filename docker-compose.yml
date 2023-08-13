@@ -5,7 +5,7 @@ services:
     restart: always
     container_name: lamppnginxloadbalance
     volumes:
-      - /root/docker/lampp/loadbalancing/nginx.conf:/etc/nginx/nginx.conf
+      - /root/docker/lampp/loadbalance/nginx.conf:/etc/nginx/nginx.conf
     ports:
       - '8080:80'
       - '8443:443'
