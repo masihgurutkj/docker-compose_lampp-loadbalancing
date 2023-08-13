@@ -35,6 +35,6 @@ C. DEPLOY Container<br/>
    docker-compose -p 'lampp' down ## Mode bersi-bersih Container <br/>
 4. Tes Skrip  <br/>
    touch php_app1/index.php \ <br/>
-   echo "\<h1>Server 1<\/h1><\?php phpinfo()\; \?>\" > php_app1/index.php \ <br/>
+   echo "\<h1>Server 1<\/h1><\?php phpinfo()\; \?>\" > php_app1/index.php  <br/>
    ........
 
