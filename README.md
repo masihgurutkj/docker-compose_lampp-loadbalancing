@@ -29,7 +29,7 @@ C. DEPLOY Container<br/>
 2. Deploy <br/>
    docker-compose -p 'lampp' up    <br/>
    docker-compose -p 'lampp' up -d  ## Mode Daemon<br/>
-3. Start/Stop  <br/>
+3. Running  <br/>
    docker-compose -p 'lampp' start <br/>
    docker-compose -p 'lampp' stop <br/>
    docker-compose -p 'lampp' down ## Mode bersi-bersih Container <br/>
