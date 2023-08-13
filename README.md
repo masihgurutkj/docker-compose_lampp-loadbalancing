@@ -25,7 +25,7 @@ B. DIREKTORI [docker-compose_lampp-loadbalancing]<br/>
 C. DEPLOY Container<br/>
 1. Download <br/>
    git clone https://github.com/masihgurutkj/docker-compose_lampp-loadbalancing.git \ <br/>
-   cd lampp-loadbalancing \ <br/>
+   cd lampp-loadbalancing  <br/>
 2. Deploy <br/>
    docker-compose -p 'lampp' up    <br/>
    docker-compose -p 'lampp' up -d  ## Mode Daemon<br/>
