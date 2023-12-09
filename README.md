@@ -14,13 +14,7 @@ B. DIREKTORI [docker-compose_lampp-loadbalancing]<br/>
   + php_app2<br/>
     - index.php<br/>
   + php_app3<br/>
-    - index.php<br/>
-  + php_app4<br/>
-    - index.php<br/>
-  + php_app5<br/>
-    - index.php<br/>
-  + php_app6<br/>
-    - index.php <br/><br/>
+    - index.php<br/><br/>
 
 C. DEPLOY Container<br/>
 1. Download <br/>
